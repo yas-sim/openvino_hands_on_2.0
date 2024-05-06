@@ -1,4 +1,4 @@
-openino==2024.1.0
+openvino==2024.1.0
 nncf[tensorflow,torch,onnx]
 torchvision
 tensorflow_hub
