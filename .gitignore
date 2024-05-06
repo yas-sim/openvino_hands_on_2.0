@@ -3,3 +3,10 @@
 *.xml
 *.pt
 *.py
+
+.ipynb_checkpoints/
+ImageNet-Mini/
+cache/
+imagenet_jpg/
+mobilenet_v2/
+ssd*

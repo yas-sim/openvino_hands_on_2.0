@@ -1,0 +1,11 @@
+openino==2024.1.0
+nncf[tensorflow,torch,onnx]
+torchvision
+tensorflow_hub
+
+opencv-python
+
+pillow
+numpy
+
+jupyterlab
